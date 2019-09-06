@@ -1,0 +1,1 @@
+gcloud functions deploy pdf --region europe-west2 --runtime nodejs8 --trigger-http --memory 1024
